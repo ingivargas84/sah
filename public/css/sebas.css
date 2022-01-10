@@ -1,0 +1,26 @@
+/* cambiar tipo de letra */
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: inherit;
+    
+}
+ 
+/* cambiar el color de fondo a la barra */
+nav.navbar {
+    
+    background-color: rgb(200,200,200  );
+}
+h6{
+    text-transform: uppercase;
+    color: darkgoldenrod;
+}
+.error{
+    color: red;
+
+}
+input.error{
+    color: #555 !important;
+}
+select.error{
+    color: #555 !important;
+}
